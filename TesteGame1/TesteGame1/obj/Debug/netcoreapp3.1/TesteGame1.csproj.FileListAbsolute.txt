@@ -1,0 +1,13 @@
+C:\Users\Fred\source\repos\TesteGame1\TesteGame1\obj\Debug\netcoreapp3.1\TesteGame1.csprojAssemblyReference.cache
+C:\Users\Fred\source\repos\TesteGame1\TesteGame1\obj\Debug\netcoreapp3.1\TesteGame1.AssemblyInfoInputs.cache
+C:\Users\Fred\source\repos\TesteGame1\TesteGame1\obj\Debug\netcoreapp3.1\TesteGame1.AssemblyInfo.cs
+C:\Users\Fred\source\repos\TesteGame1\TesteGame1\obj\Debug\netcoreapp3.1\TesteGame1.csproj.CoreCompileInputs.cache
+C:\Users\Fred\source\repos\TesteGame1\TesteGame1\bin\Debug\netcoreapp3.1\TesteGame1.exe
+C:\Users\Fred\source\repos\TesteGame1\TesteGame1\bin\Debug\netcoreapp3.1\TesteGame1.deps.json
+C:\Users\Fred\source\repos\TesteGame1\TesteGame1\bin\Debug\netcoreapp3.1\TesteGame1.runtimeconfig.json
+C:\Users\Fred\source\repos\TesteGame1\TesteGame1\bin\Debug\netcoreapp3.1\TesteGame1.runtimeconfig.dev.json
+C:\Users\Fred\source\repos\TesteGame1\TesteGame1\bin\Debug\netcoreapp3.1\TesteGame1.dll
+C:\Users\Fred\source\repos\TesteGame1\TesteGame1\bin\Debug\netcoreapp3.1\TesteGame1.pdb
+C:\Users\Fred\source\repos\TesteGame1\TesteGame1\obj\Debug\netcoreapp3.1\TesteGame1.dll
+C:\Users\Fred\source\repos\TesteGame1\TesteGame1\obj\Debug\netcoreapp3.1\TesteGame1.pdb
+C:\Users\Fred\source\repos\TesteGame1\TesteGame1\obj\Debug\netcoreapp3.1\TesteGame1.genruntimeconfig.cache
